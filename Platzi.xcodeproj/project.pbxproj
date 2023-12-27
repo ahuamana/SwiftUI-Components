@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		0B782DDD2B3C606500084AC4 /* TextMod.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B782DDC2B3C606500084AC4 /* TextMod.swift */; };
+		0B782DDF2B3C669B00084AC4 /* Buttons.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B782DDE2B3C669B00084AC4 /* Buttons.swift */; };
 		0B8BE1942B3B05810051C60D /* PlatziApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B8BE1932B3B05810051C60D /* PlatziApp.swift */; };
 		0B8BE1962B3B05810051C60D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B8BE1952B3B05810051C60D /* ContentView.swift */; };
 		0B8BE1982B3B05820051C60D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0B8BE1972B3B05820051C60D /* Assets.xcassets */; };
@@ -16,6 +17,7 @@
 
 /* Begin PBXFileReference section */
 		0B782DDC2B3C606500084AC4 /* TextMod.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextMod.swift; sourceTree = "<group>"; };
+		0B782DDE2B3C669B00084AC4 /* Buttons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Buttons.swift; sourceTree = "<group>"; };
 		0B8BE1902B3B05810051C60D /* Platzi.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Platzi.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0B8BE1932B3B05810051C60D /* PlatziApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlatziApp.swift; sourceTree = "<group>"; };
 		0B8BE1952B3B05810051C60D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 				0B8BE1972B3B05820051C60D /* Assets.xcassets */,
 				0B8BE1992B3B05820051C60D /* Preview Content */,
 				0B782DDC2B3C606500084AC4 /* TextMod.swift */,
+				0B782DDE2B3C669B00084AC4 /* Buttons.swift */,
 			);
 			path = Platzi;
 			sourceTree = "<group>";
@@ -143,6 +146,7 @@
 				0B8BE1962B3B05810051C60D /* ContentView.swift in Sources */,
 				0B8BE1942B3B05810051C60D /* PlatziApp.swift in Sources */,
 				0B782DDD2B3C606500084AC4 /* TextMod.swift in Sources */,
+				0B782DDF2B3C669B00084AC4 /* Buttons.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
