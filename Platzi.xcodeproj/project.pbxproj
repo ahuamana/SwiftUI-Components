@@ -21,6 +21,7 @@
 		0BA0CD952B3D98B800CBFEF6 /* ZStackPadding.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BA0CD942B3D98B800CBFEF6 /* ZStackPadding.swift */; };
 		0BA0CD972B3DAEE500CBFEF6 /* TabViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BA0CD962B3DAEE500CBFEF6 /* TabViews.swift */; };
 		0BA0CD992B3DB06000CBFEF6 /* Navigations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BA0CD982B3DB06000CBFEF6 /* Navigations.swift */; };
+		0BA0CD9B2B3DB31600CBFEF6 /* Player.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BA0CD9A2B3DB31600CBFEF6 /* Player.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -39,6 +40,7 @@
 		0BA0CD942B3D98B800CBFEF6 /* ZStackPadding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZStackPadding.swift; sourceTree = "<group>"; };
 		0BA0CD962B3DAEE500CBFEF6 /* TabViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabViews.swift; sourceTree = "<group>"; };
 		0BA0CD982B3DB06000CBFEF6 /* Navigations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Navigations.swift; sourceTree = "<group>"; };
+		0BA0CD9A2B3DB31600CBFEF6 /* Player.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Player.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +87,7 @@
 				0BA0CD942B3D98B800CBFEF6 /* ZStackPadding.swift */,
 				0BA0CD962B3DAEE500CBFEF6 /* TabViews.swift */,
 				0BA0CD982B3DB06000CBFEF6 /* Navigations.swift */,
+				0BA0CD9A2B3DB31600CBFEF6 /* Player.swift */,
 			);
 			path = Platzi;
 			sourceTree = "<group>";
@@ -172,6 +175,7 @@
 				0B782DE52B3D4AC200084AC4 /* Dividers.swift in Sources */,
 				0B8BE1942B3B05810051C60D /* PlatziApp.swift in Sources */,
 				0B782DE92B3D4EB300084AC4 /* Reto.swift in Sources */,
+				0BA0CD9B2B3DB31600CBFEF6 /* Player.swift in Sources */,
 				0B782DE12B3CAF5C00084AC4 /* Images.swift in Sources */,
 				0B782DDD2B3C606500084AC4 /* TextMod.swift in Sources */,
 				0BA0CD992B3DB06000CBFEF6 /* Navigations.swift in Sources */,

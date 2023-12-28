@@ -9,6 +9,7 @@ import SwiftUI
 
 struct Navigations: View {
     var body: some View {
+       
         NavigationStack {
             
             VStack {
