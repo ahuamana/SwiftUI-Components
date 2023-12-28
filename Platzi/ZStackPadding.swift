@@ -59,12 +59,23 @@ struct ZStackPadding: View {
 
 struct imagenes : View {
     var body : some View {
-        Image("logo").resizable().aspectRatio(contentMode: .fit).frame(width: 100,height: 100)
+        VStack {
+            Image("logo").resizable().aspectRatio(contentMode: .fit).frame(width: 100,height: 100)
+            Image("logo").resizable().aspectRatio(contentMode: .fit).frame(width: 100,height: 100)
+            Image("logo").resizable().aspectRatio(contentMode: .fit).frame(width: 100,height: 100)
+        }
+        
     }
 }
 
 struct ZStackPadding_Previews: PreviewProvider {
     static var previews: some View {
         ZStackPadding()
+    }
+}
+
+struct Imagenes_Previews: PreviewProvider {
+    static var previews: some View {
+        imagenes()
     }
 }

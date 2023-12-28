@@ -19,6 +19,7 @@
 		0B8BE1982B3B05820051C60D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0B8BE1972B3B05820051C60D /* Assets.xcassets */; };
 		0B8BE19B2B3B05820051C60D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0B8BE19A2B3B05820051C60D /* Preview Assets.xcassets */; };
 		0BA0CD952B3D98B800CBFEF6 /* ZStackPadding.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BA0CD942B3D98B800CBFEF6 /* ZStackPadding.swift */; };
+		0BA0CD972B3DAEE500CBFEF6 /* TabViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BA0CD962B3DAEE500CBFEF6 /* TabViews.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +36,7 @@
 		0B8BE1972B3B05820051C60D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0B8BE19A2B3B05820051C60D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		0BA0CD942B3D98B800CBFEF6 /* ZStackPadding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZStackPadding.swift; sourceTree = "<group>"; };
+		0BA0CD962B3DAEE500CBFEF6 /* TabViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabViews.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 				0B782DE62B3D4CCA00084AC4 /* HstackVstack.swift */,
 				0B782DE82B3D4EB300084AC4 /* Reto.swift */,
 				0BA0CD942B3D98B800CBFEF6 /* ZStackPadding.swift */,
+				0BA0CD962B3DAEE500CBFEF6 /* TabViews.swift */,
 			);
 			path = Platzi;
 			sourceTree = "<group>";
@@ -162,6 +165,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0B8BE1962B3B05810051C60D /* ContentView.swift in Sources */,
+				0BA0CD972B3DAEE500CBFEF6 /* TabViews.swift in Sources */,
 				0B782DE52B3D4AC200084AC4 /* Dividers.swift in Sources */,
 				0B8BE1942B3B05810051C60D /* PlatziApp.swift in Sources */,
 				0B782DE92B3D4EB300084AC4 /* Reto.swift in Sources */,
