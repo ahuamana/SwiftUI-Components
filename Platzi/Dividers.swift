@@ -9,7 +9,19 @@ import SwiftUI
 
 struct Dividers: View {
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        VStack {
+            Circle().frame(width: 100,height: 100, alignment: .center)
+            Text("Circulo Negro")
+            
+            Divider().frame(height: 10).background(Color.red)
+            
+            Rectangle().frame(width: 200,height: 100).foregroundColor(.blue)
+            
+            Text("Restangulo Azul")
+            
+            Divider().frame(height: 10).background(Color.red)
+            
+        }
     }
 }
 
