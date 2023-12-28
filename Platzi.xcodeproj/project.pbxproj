@@ -13,10 +13,12 @@
 		0B782DE32B3D47E700084AC4 /* TextFields.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B782DE22B3D47E700084AC4 /* TextFields.swift */; };
 		0B782DE52B3D4AC200084AC4 /* Dividers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B782DE42B3D4AC200084AC4 /* Dividers.swift */; };
 		0B782DE72B3D4CCA00084AC4 /* HstackVstack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B782DE62B3D4CCA00084AC4 /* HstackVstack.swift */; };
+		0B782DE92B3D4EB300084AC4 /* Reto.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B782DE82B3D4EB300084AC4 /* Reto.swift */; };
 		0B8BE1942B3B05810051C60D /* PlatziApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B8BE1932B3B05810051C60D /* PlatziApp.swift */; };
 		0B8BE1962B3B05810051C60D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B8BE1952B3B05810051C60D /* ContentView.swift */; };
 		0B8BE1982B3B05820051C60D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0B8BE1972B3B05820051C60D /* Assets.xcassets */; };
 		0B8BE19B2B3B05820051C60D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0B8BE19A2B3B05820051C60D /* Preview Assets.xcassets */; };
+		0BA0CD952B3D98B800CBFEF6 /* ZStackPadding.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BA0CD942B3D98B800CBFEF6 /* ZStackPadding.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,11 +28,13 @@
 		0B782DE22B3D47E700084AC4 /* TextFields.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFields.swift; sourceTree = "<group>"; };
 		0B782DE42B3D4AC200084AC4 /* Dividers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dividers.swift; sourceTree = "<group>"; };
 		0B782DE62B3D4CCA00084AC4 /* HstackVstack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HstackVstack.swift; sourceTree = "<group>"; };
+		0B782DE82B3D4EB300084AC4 /* Reto.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Reto.swift; sourceTree = "<group>"; };
 		0B8BE1902B3B05810051C60D /* Platzi.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Platzi.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0B8BE1932B3B05810051C60D /* PlatziApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlatziApp.swift; sourceTree = "<group>"; };
 		0B8BE1952B3B05810051C60D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		0B8BE1972B3B05820051C60D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0B8BE19A2B3B05820051C60D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		0BA0CD942B3D98B800CBFEF6 /* ZStackPadding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZStackPadding.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,6 +77,8 @@
 				0B782DE22B3D47E700084AC4 /* TextFields.swift */,
 				0B782DE42B3D4AC200084AC4 /* Dividers.swift */,
 				0B782DE62B3D4CCA00084AC4 /* HstackVstack.swift */,
+				0B782DE82B3D4EB300084AC4 /* Reto.swift */,
+				0BA0CD942B3D98B800CBFEF6 /* ZStackPadding.swift */,
 			);
 			path = Platzi;
 			sourceTree = "<group>";
@@ -158,11 +164,13 @@
 				0B8BE1962B3B05810051C60D /* ContentView.swift in Sources */,
 				0B782DE52B3D4AC200084AC4 /* Dividers.swift in Sources */,
 				0B8BE1942B3B05810051C60D /* PlatziApp.swift in Sources */,
+				0B782DE92B3D4EB300084AC4 /* Reto.swift in Sources */,
 				0B782DE12B3CAF5C00084AC4 /* Images.swift in Sources */,
 				0B782DDD2B3C606500084AC4 /* TextMod.swift in Sources */,
 				0B782DDF2B3C669B00084AC4 /* Buttons.swift in Sources */,
 				0B782DE32B3D47E700084AC4 /* TextFields.swift in Sources */,
 				0B782DE72B3D4CCA00084AC4 /* HstackVstack.swift in Sources */,
+				0BA0CD952B3D98B800CBFEF6 /* ZStackPadding.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
